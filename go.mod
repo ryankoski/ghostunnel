@@ -6,7 +6,7 @@ require (
 	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/semver v1.5.0 // indirect
 	github.com/alecthomas/units v0.0.0-20210208195552-ff826a37aa15 // indirect
-	github.com/caddyserver/certmagic v0.14.1-0.20210616191643-647f27cf265e
+	github.com/caddyserver/certmagic v0.16.0
 	github.com/coreos/go-systemd v0.0.0-20191104093116-d3cd4ed1dbcf
 	github.com/cyberdelia/go-metrics-graphite v0.0.0-20161219230853-39f87cc3b432
 	github.com/deathowl/go-metrics-prometheus v0.0.0-20200518174047-74482eab5bfb
@@ -16,7 +16,7 @@ require (
 	github.com/imdario/mergo v0.3.12 // indirect
 	github.com/kavu/go_reuseport v1.5.0
 	github.com/letsencrypt/pkcs11key/v4 v4.0.0
-	github.com/mholt/acmez v0.1.3
+	github.com/mholt/acmez v1.0.2
 	github.com/miekg/pkcs11 v1.0.3 // indirect
 	github.com/mitchellh/copystructure v1.1.2 // indirect
 	github.com/mwitkow/go-http-dialer v0.0.0-20161116154839-378f744fb2b8
@@ -28,7 +28,7 @@ require (
 	github.com/square/certigo v1.12.1
 	github.com/square/go-sq-metrics v0.0.0-20170531223841-ae72f332d0d9
 	github.com/stretchr/testify v1.7.0
-	golang.org/x/sys v0.0.0-20210915083310-ed5796bab164 // indirect
+	golang.org/x/sys v0.0.0-20211216021012-1d35b9e2eb4e // indirect
 	google.golang.org/genproto v0.0.0-20210423144448-3a41ef94ed2b // indirect
 	google.golang.org/grpc v1.37.0 // indirect
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
@@ -44,12 +44,12 @@ require (
 	github.com/gogo/protobuf v1.2.1 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/uuid v1.1.2 // indirect
-	github.com/klauspost/cpuid/v2 v2.0.6 // indirect
+	github.com/klauspost/cpuid/v2 v2.0.11 // indirect
 	github.com/libdns/libdns v0.2.1 // indirect
 	github.com/mattn/go-colorable v0.1.8 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.1 // indirect
-	github.com/miekg/dns v1.1.42 // indirect
+	github.com/miekg/dns v1.1.46 // indirect
 	github.com/mitchellh/reflectwalk v1.0.1 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
@@ -57,10 +57,13 @@ require (
 	github.com/prometheus/procfs v0.6.0 // indirect
 	go.uber.org/atomic v1.7.0 // indirect
 	go.uber.org/multierr v1.6.0 // indirect
-	go.uber.org/zap v1.17.0 // indirect
-	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a // indirect
-	golang.org/x/net v0.0.0-20210525063256-abc453219eb5 // indirect
-	golang.org/x/text v0.3.6 // indirect
+	go.uber.org/zap v1.21.0 // indirect
+	golang.org/x/crypto v0.0.0-20220210151621-f4118a5b28e2 // indirect
+	golang.org/x/mod v0.4.2 // indirect
+	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd // indirect
+	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/tools v0.1.6-0.20210726203631-07bc1bf47fb2 // indirect
+	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	google.golang.org/protobuf v1.26.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
 )
