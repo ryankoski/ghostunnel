@@ -4,7 +4,7 @@ require (
 	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/semver v1.5.0 // indirect
 	github.com/alecthomas/units v0.0.0-20211218093645-b94a6e3cc137 // indirect
-	github.com/caddyserver/certmagic v0.16.1
+	github.com/caddyserver/certmagic v0.17.2
 	github.com/coreos/go-systemd v0.0.0-20191104093116-d3cd4ed1dbcf
 	github.com/cyberdelia/go-metrics-graphite v0.0.0-20161219230853-39f87cc3b432
 	github.com/deathowl/go-metrics-prometheus v0.0.0-20200518174047-74482eab5bfb
@@ -13,7 +13,7 @@ require (
 	github.com/imdario/mergo v0.3.13 // indirect
 	github.com/kavu/go_reuseport v1.5.0
 	github.com/letsencrypt/pkcs11key/v4 v4.0.0
-	github.com/mholt/acmez v1.0.2
+	github.com/mholt/acmez v1.0.4
 	github.com/miekg/pkcs11 v1.1.1 // indirect
 	github.com/mitchellh/copystructure v1.2.0 // indirect
 	github.com/mwitkow/go-http-dialer v0.0.0-20161116154839-378f744fb2b8
@@ -25,7 +25,7 @@ require (
 	github.com/square/certigo v1.16.1-0.20220921173659-75f2ec06b4a5
 	github.com/square/go-sq-metrics v0.0.0-20170531223841-ae72f332d0d9
 	github.com/stretchr/testify v1.8.0
-	golang.org/x/sys v0.0.0-20220919091848-fb04ddd9f9c8 // indirect
+	golang.org/x/sys v0.0.0-20220928140112-f11e5e49a4ec // indirect
 	google.golang.org/genproto v0.0.0-20220921223823-23cae91e6737 // indirect
 	google.golang.org/grpc v1.49.0
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
@@ -87,13 +87,13 @@ require (
 	github.com/jhump/protoreflect v1.13.0 // indirect
 	github.com/jonboulle/clockwork v0.3.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
-	github.com/klauspost/cpuid/v2 v2.0.12 // indirect
+	github.com/klauspost/cpuid/v2 v2.1.1 // indirect
 	github.com/libdns/libdns v0.2.1 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.16 // indirect
 	github.com/mattn/go-runewidth v0.0.14 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.2-0.20181231171920-c182affec369 // indirect
-	github.com/miekg/dns v1.1.49 // indirect
+	github.com/miekg/dns v1.1.50 // indirect
 	github.com/mitchellh/reflectwalk v1.0.2 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
@@ -142,9 +142,9 @@ require (
 	go.uber.org/atomic v1.10.0 // indirect
 	go.uber.org/multierr v1.8.0 // indirect
 	go.uber.org/zap v1.23.0 // indirect
-	golang.org/x/crypto v0.0.0-20220919173607-35f4265a4bc0 // indirect
+	golang.org/x/crypto v0.0.0-20221005025214-4161e89ecf1b // indirect
 	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
-	golang.org/x/net v0.0.0-20220921203646-d300de134e69 // indirect
+	golang.org/x/net v0.0.0-20221004154528-8021a29435af // indirect
 	golang.org/x/oauth2 v0.0.0-20220909003341-f21342109be1 // indirect
 	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/time v0.0.0-20220920022843-2ce7c2934d45 // indirect
